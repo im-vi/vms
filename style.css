@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+
+body{
+    font-family: 'Inter', sans-serif;
+    background-color: #000000;
+    color: #ffffff;
+    text-align: center;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+a:hover{
+    color: #0000ff;
+    transition-duration: 500ms;
+}
+
+.site{
+    text-align: left;
+}
+
+footer{
+    float: inherit;
+}
